@@ -1,0 +1,5 @@
+{
+  "name": "The Individuals: Terminal Sandbox",
+  "description": "A retro-futuristic text-based sandbox game where otherworldly entities control the world. Powered by Gemini.",
+  "requestFramePermissions": ["microphone", "camera"]
+}
